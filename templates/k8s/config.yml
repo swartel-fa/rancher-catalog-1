@@ -1,5 +1,5 @@
 name: Kubernetes
-description: |
-  Kubernetes service
-version: v1.3.0-rancher4
-category: System
+version: v1.7.7-rancher1
+category: Orchestration
+labels:
+  io.rancher.certified: rancher

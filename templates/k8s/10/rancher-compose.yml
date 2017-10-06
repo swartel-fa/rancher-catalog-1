@@ -4,7 +4,7 @@
   description: Rancher Kubernetes service
   minimum_rancher_version: v1.2.0-pre1
   maximum_rancher_version: v1.2.0-pre3
-  
+
 kubernetes:
     metadata:
         sans:
